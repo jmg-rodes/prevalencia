@@ -1,5 +1,4 @@
-# Prevalencia
-## Estudio sobre prevalencia, comportamiento y características de los usuarios de juego de azar en España.
+# Prevalencia de juego patológico, preferencias de juego y características sociodemográficas de los usuarios/as de juegos de azar en España. 2015
 
 Nuestro conjunto de datos original está formado por el utilizado para la realización del 
 Estudio sobre prevalencia, comportamiento y características de los usuarios de juego de azar en España[1] 
