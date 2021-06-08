@@ -1,5 +1,11 @@
 # Prevalencia de juego patológico, preferencias de juego y características sociodemográficas de los usuarios/as de juegos de azar en España. 2015
+## Enlace de la visualización
+https://prevalencia-del-juego-de-azar.webnode.es/
 
+## Enlace del cuadro de mando de tableau
+https://public.tableau.com/app/profile/jos.manuel.garc.a.rodes/viz/Prevalencia/Historia1
+
+## Descripción del conjunto de datos
 Nuestro conjunto de datos original está formado por el utilizado para la realización del 
 Estudio sobre prevalencia, comportamiento y características de los usuarios de juego de azar en España[1] 
 por La Dirección General de Ordenación del Juego perteneciente al Ministerio de Consumo.
@@ -72,4 +78,11 @@ con las siguientes seleccionadas del conjunto original:
 	
 Con todo ello hemos pasado de 234 a 55 variables.
  
- 
+## Archivos incluidos en este repositorio
+-	**estudio_prevalencia_2015.pdf**. Estudio original del Ministerio de Consumo.
+-	**Cuestionario.pdf**. Cuestionario estudio original.
+-	**Data.xlsx**. Dataset original.
+-	**Estudio_de_Prevalencia.R**. Script en R para la transformación, selección y creación del dataset de la visualización.
+-	**CCAA.xlsx**. Listado Comunidades Autónomas.
+-	**Practica.twb**. Cuadro de mando con el dataset embebido.
+-	**Prevalencia.xlsx**. Conjunto de datos de la visualización.
