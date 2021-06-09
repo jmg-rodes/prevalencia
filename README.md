@@ -90,7 +90,7 @@ con las siguientes seleccionadas del conjunto original:
 -	POB: Habitat. Tamaño de la población de residencia de la persona jugadora.
 -	DB1: Situación laboral 
 	
-Con todo ello hemos pasado de 234 a 55 variables.
+Con todo ello hemos pasado de 234 a 72 variables.
  
 ## Archivos incluidos en este repositorio
 -	**estudio_prevalencia_2015.pdf**. Estudio original del Ministerio de Consumo.
@@ -100,3 +100,4 @@ Con todo ello hemos pasado de 234 a 55 variables.
 -	**CCAA.xlsx**. Listado Comunidades Autónomas.
 -	**Practica.twb**. Cuadro de mando con el dataset embebido.
 -	**Prevalencia.xlsx**. Conjunto de datos de la visualización.
+-	**P14A1, …, P14A17**. Ítems que conforman el sistema NODS.
