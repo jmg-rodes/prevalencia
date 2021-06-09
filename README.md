@@ -5,6 +5,20 @@ https://prevalencia-del-juego-de-azar.webnode.es/
 ## Enlace del cuadro de mando de tableau
 https://public.tableau.com/app/profile/jos.manuel.garc.a.rodes/viz/Prevalencia/Historia1
 
+## Urls de las visualizaciones en Flourish:
+https://public.flourish.studio/visualisation/6387989/
+
+https://public.flourish.studio/visualisation/6387916/
+
+https://public.flourish.studio/visualisation/6387828/
+
+https://public.flourish.studio/visualisation/6379767/
+
+https://public.flourish.studio/visualisation/6379693/
+
+https://public.flourish.studio/visualisation/6378724/
+
+
 ## Descripción del conjunto de datos
 Nuestro conjunto de datos original está formado por el utilizado para la realización del 
 Estudio sobre prevalencia, comportamiento y características de los usuarios de juego de azar en España[1] 
